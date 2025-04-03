@@ -1,4 +1,5 @@
 def main():
+    print("team b")
     print("Let's implement division. Type two numbers for x and y")
     
     x = int(input("x > "))
